@@ -2,9 +2,11 @@
 This project ia an instance of Natural Language Processing with utilizing the Transformer model.
 
 # requirements 
-torch == 1.8.1
-torchtext == 0.9.1
-python == 3.9
+torch == 1.8.1  
+
+torchtext == 0.9.1  
+
+python == 3.9  
 
 # details
 1. Transformer.py : constrcut a complete Transformer model
